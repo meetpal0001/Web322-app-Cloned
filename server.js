@@ -16,9 +16,9 @@ const cloudinary = require('cloudinary').v2
 const streamifier = require('streamifier')
 
 cloudinary.config({
-  cloud_name: 'dtthrsqfm',
-  api_key: '226173794417651',
-  api_secret: 'NPYA_H3dkcelNGL1gAIXo3UtBSs',
+  cloud_name: '<name>',
+  api_key: '<key>',
+  api_secret: '<secret password>',
   secure: true
 });
 
